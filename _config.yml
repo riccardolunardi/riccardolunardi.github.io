@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Riccardo Lunardi"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student in Computer Science at the University of Udine. Research focuses on Natural Language Processing, Large Language Models, and Responsible AI."
+  bio              : "PhD Student in Computer Science at the University of Udine. Research focuses on Natural Language Processing, Large Language Models, and Clinical AI."
   location         : "Udine, Italy"
   employer         : "University of Udine"
   uri              : # URL
@@ -256,14 +256,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
   # _publications
   - scope:
       path: ""
