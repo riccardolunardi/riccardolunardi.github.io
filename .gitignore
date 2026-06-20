@@ -21,3 +21,6 @@ package-lock.json
 
 # Ignore files created by MacOS
 .DS_Store
+
+# Google Scholar scraper (contains personal credentials / may change frequently)
+markdown_generator/scraper.py
